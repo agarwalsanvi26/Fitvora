@@ -1,0 +1,8 @@
+{
+  "name": "FIT Vora",
+  "description": "Smart Fitness Management System with personalized workouts, nutrition planning, intelligent tracking, and AI fitness coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
